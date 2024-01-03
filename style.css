@@ -1,0 +1,27 @@
+
+.jumbotron {
+   padding-top: 6rem;
+   background-color: #e2edff;
+   font-family: monospace;
+}
+
+#about {
+    font-family: monospace;
+}
+
+#projects {
+   font-family: monospace;
+   background-color: #e2edff;
+}
+
+#contact {
+   font-family: monospace;
+}
+
+#footer {
+   font-family: monospace;
+}
+
+section {
+   padding-top: 5rem;
+}
